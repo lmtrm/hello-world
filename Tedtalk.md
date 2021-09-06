@@ -9,11 +9,10 @@
 
 **Gaming and Entertainment**
 * **Benefits**  
-  * d 
+  * The face id can be used to identify if a person purchasing the game is of age to play the game. If it is a 16 year old trying to buy a game rated 18 for example, the face id can scan the persons face and find the age
 * **Limitations**  
-  * d 
-* **Risks**  
-  * f 
+  * It is slightly unnecasary for a computer game shop to have the data for all of the people in the country. This could leave them susceptible to hackers targeting the weak system.
+
 
 
 **Education and Learning**
@@ -38,5 +37,4 @@
   * The use of computer vision in medical imaging analysis has many benefits. It lessens the time medical professionals take in analyzing images. Object recognition can accurately identify features in images faster and more accurately than people. Often these discoveries can take place when formations are smaller, allowing earlier detection, which can save lives and lessen the severity of treatment
 * **Limitations**  
   * If a patient has a particularly rare or unknown condition, the computer may not be able to pick it up - meaning the patient won't be able to get treatment.
-* **Risks**  
-  * f 
+
